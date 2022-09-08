@@ -1,2 +1,2 @@
-# BeDev_TeleBot_EnWordMeaning
+# BeDev_TeleBot
 BeDevToday_TelegramBotApi_EnglishWordMeaning
