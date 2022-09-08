@@ -1,2 +1,2 @@
 # BeDev_TeleBot
-BeDevToday_TelegramBotApi_EnglishWordMeaning
+BeDevToday Python TelegramBotApi EnglishWordMeaning
